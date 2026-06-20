@@ -1,0 +1,11 @@
+{
+  "searchTerms": {
+    "dress": "Dress",
+    "top": "Top",
+    "jeans": "Jeans"
+  },
+  "checkoutProduct": {
+    "name": "Blue Top",
+    "quantity": 1
+  }
+}
